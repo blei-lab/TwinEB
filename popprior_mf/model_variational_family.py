@@ -5,7 +5,7 @@
 
     See here: https://pyro.ai/examples/sparse_gamma.html
 
-    @Author: De-identified Author
+    @Author: Sohrab Salehi sohrab.salehi@columbia.edu
 """
 
 

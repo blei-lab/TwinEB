@@ -2,7 +2,7 @@
     The Probabilistic Principal Component Analysis (PPCA) with an Emprical Bayes prior using variational inference.
     Uses a population prior instead of a vamp prior.
     
-    Author: De-identified Author
+    @Author: Sohrab Salehi (sohrab.salehi@columbia.edu)
 """
 
 import torch

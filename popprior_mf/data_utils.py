@@ -1,6 +1,6 @@
 # """
 #     Data utilities for the project, including preprocessing, binarization
-#     @Author: De-identified Author
+#     @Author: Sohrab Salehi sohrab.salehi@columbia.edu
 # """
 
 import torch

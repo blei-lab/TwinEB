@@ -2,7 +2,7 @@
 """
     Set of tools to generate files for a parameter sweep.
 
-    @Author: De-identified Author
+    @Author: Sohrab Salehi sohrab.salehi@columbia.edu
 """
 
 import random

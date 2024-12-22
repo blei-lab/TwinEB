@@ -1,6 +1,6 @@
 # """
 #     Training utils
-#     @Author: De-identified Author
+#     @Author: Sohrab Salehi sohrab.salehi@columbia.edu
 # """
 
 import torch

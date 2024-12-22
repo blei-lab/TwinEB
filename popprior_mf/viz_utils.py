@@ -1,7 +1,7 @@
 """
     Utility functions for visualization of 2D matrices.
 
-    Author: De-identified Author
+    @Author: Sohrab Salehi (sohrab.salehi@columbia.edu)
 """
 from sklearn.cluster import AgglomerativeClustering
 import matplotlib.pyplot as plt

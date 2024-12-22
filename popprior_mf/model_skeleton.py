@@ -12,7 +12,7 @@
     3. Define the variational family q(Z|X) in the `__init__()` method of the [ObservedDistribution] instance by  \
         equiping the each latent with the appropriate [VariationalFamilyDistribution] instance.
 
-    @Author: De-identified Author
+    @Author: Sohrab Salehi sohrab.salehi@columbia.edu
 """
 
 

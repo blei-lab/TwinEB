@@ -2,7 +2,7 @@
     The Probabilistic Principal Component Analysis (PPCA) with an Emprical Bayes prior using variational inference
     with the addition of a EB prior on the global paramters.
     
-    Author: De-identified Author
+    @Author: Sohrab Salehi (sohrab.salehi@columbia.edu)
 """
 
 import torch

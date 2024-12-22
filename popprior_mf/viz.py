@@ -2,7 +2,7 @@
 """
     Set of visualizations methods for the VI in factor models.
 
-    @Author: De-identified Author
+    @Author: Sohrab Salehi sohrab.salehi@columbia.edu
 """
 
 

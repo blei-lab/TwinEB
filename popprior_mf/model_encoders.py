@@ -5,7 +5,7 @@
         - Encoder: the encoder network, a feedforward neural network that given the input X, outputs MEAN for the latent distibution.
         - Encoder_full: as encoder, but also outputs STDDEV for the latent distribution.
 
-    Author: De-identified Author
+    @Author: Sohrab Salehi (sohrab.salehi@columbia.edu)
 """
 
 import torch

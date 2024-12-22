@@ -1,6 +1,6 @@
 """
     Script to setup the data for experiments with CDM.
-    Author: De-identified Author
+    @Author: Sohrab Salehi (sohrab.salehi@columbia.edu)
 """
 
 import re

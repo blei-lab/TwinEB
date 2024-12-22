@@ -2,7 +2,7 @@
 """
     Compute the heldout llhood for a given model.
 
-    @Author: De-identified Author
+    @Author: Sohrab Salehi sohrab.salehi@columbia.edu
 """
 
 import argparse

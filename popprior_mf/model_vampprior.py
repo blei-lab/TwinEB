@@ -1,7 +1,7 @@
 """
     Implements the Variational Mixture of Posteriors Prior (VampPrior) model.
 
-    Author: De-identified Author
+    @Author: Sohrab Salehi (sohrab.salehi@columbia.edu)
 """
 
 

@@ -3,7 +3,7 @@
     
     Is a more true populatin prior, that is, instead of a VampPrior, it uses a mixture of the q's 
     
-    Author: De-identified Author
+    @Author: Sohrab Salehi (sohrab.salehi@columbia.edu)
 """
 
 import torch
