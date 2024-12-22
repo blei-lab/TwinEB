@@ -1,0 +1,87 @@
+PMFNaturalEBTwin:
+- name: pop_prior_vals
+  range: [[70, 100]]
+  coupled: true
+  type: float
+  name1: num_pseudo_obs
+  name2: num_pseudo_obs_global
+
+PMFNaturalEBTwinSingle:
+- name: pop_prior_vals
+  range: [[1, 1]]
+  coupled: true
+  type: float
+  name1: num_pseudo_obs
+  name2: num_pseudo_obs_global
+
+
+PMFNatural:
+  - name: column_prior_vals
+    range: [[.01, .01], [.2, .2], [.4, .4], [1, 1], [10, 10], [100, 100]]
+    coupled: true
+    type: float
+    name1: column_prior_concentration
+    name2: column_prior_rate
+  - name: row_prior_concentration
+    range: [0.1]
+    type: float
+    coupled: false
+  - name: row_prior_rate
+    range: [0.1]
+    type: float
+    coupled: false
+
+
+PMFNatural|01:
+  - name: row_prior_vals
+    range: [[.01, .01], [.2, .2], [.4, .4], [1, 1], [10, 10], [100, 100]]
+    coupled: true
+    type: float
+    name1: row_prior_concentration
+    name2: row_prior_rate
+  - name: column_prior_concentration
+    range: [0.1]
+    type: float
+    coupled: false
+  - name: column_prior_rate
+    range: [0.1]
+    type: float
+    coupled: false
+
+
+PMFNatural|02:
+  - name: row_prior_concentration
+    range: [0.027]
+    type: float
+    coupled: false
+  - name: row_prior_rate
+    range: [0.027]
+    type: float
+    coupled: false
+  - name: column_prior_concentration
+    range: [0.0004]
+    type: float
+    coupled: false
+  - name: column_prior_rate
+    range: [0.002]
+    type: float
+    coupled: false
+
+
+PMFNatural|03:
+  - name: row_prior_concentration
+    range: [0.82]
+    type: float
+    coupled: false
+  - name: row_prior_rate
+    range: [0.82]
+    type: float
+    coupled: false
+  - name: column_prior_concentration
+    range: [0.1]
+    type: float
+    coupled: false
+  - name: column_prior_rate
+    range: [0.13]
+    type: float
+    coupled: false

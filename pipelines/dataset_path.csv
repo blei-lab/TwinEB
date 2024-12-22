@@ -1,0 +1,5 @@
+﻿sample_id,system,paths
+Ru1322b_6k_4k,Ru1322b,/path/to/data/Ru1322b_6634_4000.h5ad
+ml_1m,ml_1m,/path/to/data/movie_lens/ml-1m.h5ad
+user_artists,user_artists,/path/to/data/user_artists.h5ad
+goodbooks,goodbooks,/path/to/data/goodbooks.h5ad

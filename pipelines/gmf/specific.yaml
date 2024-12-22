@@ -1,0 +1,40 @@
+PPCANaturalEBTwin:
+  - name: row_prior_vals
+    range: [[70, 100]]
+    coupled: true
+    type: float
+    name1: num_pseudo_obs
+    name2: num_pseudo_obs_global
+
+
+PPCANaturalEBTwinSingle:
+  - name: row_prior_vals
+    range: [[1, 1]]
+    coupled: true
+    type: float
+    name1: num_pseudo_obs
+    name2: num_pseudo_obs_global
+
+
+PPCANatural:
+  - name: row_prior_scale
+    range: [.001, .01, .1, 1, 10]
+    type: float
+    coupled: false
+  - name: column_prior_scale
+    range: [1.]
+    type: float
+    coupled: false
+
+
+PPCANatural|01:
+  - name: column_prior_scale
+    range: [.001, .01, .1, 1, 10]
+    type: float
+    coupled: false
+  - name: row_prior_scale
+    range: [1.]
+    type: float
+    coupled: false
+
+
