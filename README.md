@@ -1,10 +1,10 @@
-# Supplement for Population priors for matrix factorization
+# Population priors for matrix factorization
 
 ```
 Population Priors for Matrix Factorization.
 Sohrab Salehi, Achille Nazaret, Sohrab P Shah, David Blei
-TMLR (in press).
 ```
+[TMLR, 2024](https://openreview.net/forum?id=AT9G5s1pOj) (in press).
 
 
 ## Organization
